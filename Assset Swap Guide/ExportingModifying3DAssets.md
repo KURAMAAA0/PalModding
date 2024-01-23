@@ -12,7 +12,7 @@ Then go up one folder, meaning you shoud click on **"Folders"** at the top.\
 Right click on your Pal's folder, click save Folder's Packages **Textures** (.png)\
 Right click on your Pal's folder, click save Folder's Packages **Models** (.psk)\
 Now you can go ahead and open **Blender**.\
-\
+
 
 ## Importing the 3D models in Blender
 In Blender, click on **File > Import > Unreal PSK (.psk/.pskx)**\
