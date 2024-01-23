@@ -7,7 +7,7 @@ If you want to find a Pal 3D model, press Control + Shift + F in FModel, or clic
 Double click on the first result, should be the one **without** "_Skeleton" at the end.\
 \
 Then go up one folder, meaning you shoud click on **"Folders"** at the top.\
-<img width="301" alt="FMODEL2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/6c0d144c-5a52-465b-8d76-f404d6ab3474">\
+<img width="301" alt="FMODEL2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/6c0d144c-5a52-465b-8d76-f404d6ab3474">
 
 Right click on your Pal's folder, click save Folder's Packages **Textures** (.png)\
 Right click on your Pal's folder, click save Folder's Packages **Models** (.psk)\
