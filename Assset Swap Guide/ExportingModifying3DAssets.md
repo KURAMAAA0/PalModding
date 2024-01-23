@@ -27,11 +27,13 @@ We will also change his textures, go to **this section** if you want to learn ho
 ## Modifying the 3D models in Blender
 If you only want to modify your Pal 3D model, you can keep the model present in the viewport and do the modifications directly on it.\
 If your model has a black background for his eyes and mouth, select the texture(s) with the issue, go to the **Shader Editor**, plug the **Alpha** channel of the texture into the **Alpha** property of the Principled BSDF.\
-<img width="187" alt="BLENDERSHADER2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/1d97cf09-2146-4310-957d-961487e6b30d">\
+<img width="367" alt="BLENDERSHADER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/c988b8db-3d1a-48ed-b597-8beda449cfb8">\
+
 
 
 Then in the Material Properties tab change the **Blend Mode** to **Alpha Blend** and the **Shadow Mode** to **None**.\
-<img width="166" alt="BLENDERSHADER2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/8eefd16f-c2ee-4ee7-b3db-d10c931f30b8">\
+<img width="187" alt="BLENDERSHADER2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/41e5a112-f107-468d-b69b-e38b9a36bfce">\
+
 
 Your Pal is fixed!\
 <img width="398" alt="BLENDERSHADER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/d0b93d38-ea6d-4a27-9ac4-14beab123f1f">\
