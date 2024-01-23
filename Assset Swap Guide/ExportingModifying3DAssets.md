@@ -22,7 +22,7 @@ Go to the output folder you set when changing FModel's settings, **Output** > **
 The textures should be in the same folder as the .psk, apply them to the Pal model if you don't want to replace him, otherwise ignore.\
 We'll make Depresso (code name: NegativeKoala) into a completely sleep deprived Depresso by editing his model.\
 We will also change his textures, go to **this section** if you want to learn how to replace/edit images (same process as replacing/editing textures).\
-\
+
 
 ## Modifying/Replacing the 3D models in Blender
 If you only want to modify your Pal 3D model, you can keep the model present in the viewport and do the modifications directly on it.\
