@@ -15,7 +15,7 @@ On the left side of the settings, click on the **Models** tab.\
 Change your **Moddel Export Directory** to somewhere you'll find easily.\
 Change **Mesh Format** to **"ActorX (psk / pskx)"**\
 Change **"Texture Format"** to **PNG**.\
-Click **OK** and restart FModel.\
+Click **OK** and restart FModel.
 
 ------------
 
