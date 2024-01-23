@@ -1,6 +1,6 @@
 # Starting out
 Start by opening FModel, a "Directory Selector" window will open.\
-If Palworld isn't in the first dropdown, click the interchanging arrows symbol to add an undetected game.
+If Palworld isn't in the first dropdown, click the interchanging arrows symbol to add an undetected game.\
 <img width="323" alt="FMODEL1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/5bced3f7-22dd-4ae7-b67c-854199bec4ed">
 Name it **Palworld**, or anything you want.\
 Change the directory to your Palworld executable directory, which is in Program Files (x86)\Steam\steamapps\common\Palworld.\
