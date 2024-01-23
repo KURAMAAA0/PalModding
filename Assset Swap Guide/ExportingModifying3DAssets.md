@@ -1,4 +1,4 @@
-<img width="398" alt="BLENDERSHADER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/7ab04e2e-fc9b-4e58-b098-67c3a1b92bff"># Exporting and modifying 3D assets
+# Exporting and modifying 3D assets
 In this section, you'll learn how to find the right files to export in order to modify 3D assets. You will not be taught how to use Blender.
 ## Finding and exporting 3D models of Pals
 If you want to find a Pal 3D model, press Control + Shift + F in FModel, or click **Package** then **Search**, then in the search box, search for SK_*PalCodeName*.
