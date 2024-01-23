@@ -2,7 +2,7 @@
 In this section, you'll learn how to find the right files to export in order to modify 3D assets. You will not be taught how to use Blender.
 ## Finding and exporting 3D models of Pals
 If you want to find a Pal 3D model, press Control + Shift + F in FModel, or click **Package** then **Search**, then search for SK_*PalCodeName* in the search box.
-##### To find the codename of any Pal, click **[HERE](https://github.com/KURAMAAA0/PalModding/blob/main/PalNamesCodeNames.txt "HERE")** and search for your wanted pal.
+#### To find the Code Name of any Pal, click **[HERE](https://github.com/KURAMAAA0/PalModding/blob/main/PalNamesCodeNames.txt "HERE")** and search for your wanted pal.
 
 Double click on the first one, should be the one **without** "_Skeleton" at the end.\
 Then go up one folder, meaning you shoud click on **"Folders"** at the top.\
