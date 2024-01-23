@@ -22,7 +22,7 @@ Click **OK** and restart FModel.\
 
 You can now start exploring and exporting the game files freely!\
 To find which file to export, go to one of these sections in the guide:
-- Exporting and modifying 3D assets (Pals, items, etc..)
+- [Exporting and modifying 3D assets (Pals, items, etc..)](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/ExportingModifying3DAssets.md "Exporting and modifying 3D assets (Pals, items, etc..)")
 - Exporting and replacing 3D assets (Pals, items, etc..)
 - Exporting and modifying 2D assets (Icons, HUD elements, images)
 -
