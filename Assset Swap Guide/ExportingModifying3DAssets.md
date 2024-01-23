@@ -19,7 +19,7 @@ In Blender, click on **File > Import > Unreal PSK (.psk/.pskx)**\
 <img width="360" alt="BLENDER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/98e6e332-75d2-4c60-ad49-d557459ce8d4">\
 
 Go to the output folder you set when changing FModel's settings, **Output** > **Exports**, > go through the folders until you find the SK_***PalCodeName*.psk** file and import it.\
-The textures should be in the same folder as the .psk, apply them to the Pal model if you don't want to replace him, otherwise ignore.\
+The textures should be in the same folder as the .psk, apply them to the Pal model if you don't want to replace it, otherwise ignore.\
 We'll make Depresso (code name: NegativeKoala) into a completely sleep deprived Depresso by editing his model.\
 We will also change his textures, go to **this section** if you want to learn how to replace/edit images (same process as replacing/editing textures).\
 
