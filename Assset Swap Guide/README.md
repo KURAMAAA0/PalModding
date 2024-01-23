@@ -11,4 +11,4 @@ This guide will go on how to make an asset swap mod for Palworld. After reading 
 DarklightGames' psk/psa importer (https://github.com/DarklightGames/io_scene_psk_psa/releases) to import game files into Blender.\
 
 Let's begin.
-- Starting out
+- [Starting out](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/StartingOut.md "Starting out")
