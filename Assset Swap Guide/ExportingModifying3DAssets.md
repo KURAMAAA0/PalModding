@@ -24,7 +24,7 @@ We'll make Depresso (code name: NegativeKoala) into a completely sleep deprived 
 We will also change his textures, go to **this section** if you want to learn how to replace/edit images (same process as replacing/editing textures).
 
 
-## Modifying/Replacing the 3D models in Blender
+## Modifying the 3D models in Blender
 If you only want to modify your Pal 3D model, you can keep the model present in the viewport and do the modifications directly on it.\
 If your model has a black background for his eyes and mouth, select the texture(s) with the issue, go to the **Shader Editor**, plug the **Alpha** channel of the texture into the **Alpha** property of the Principled BSDF.\
 <img width="367" alt="BLENDERSHADER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/22aab63c-6c56-469e-ba56-30b8b6483777">\
