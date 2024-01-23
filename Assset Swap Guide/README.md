@@ -8,7 +8,7 @@ This guide will go on how to make an asset swap mod for Palworld. After reading 
 **Unreal Engine 5.1.1** (https://www.unrealengine.com/en-US/download) to package the final mod.\
 *Be sure to select 5.1.1, as it is the version matching the one Palworld used.*\
 **Blender** (https://www.blender.org/download/) to edit and export the 3D models.\
-DarklightGames' psk/psa importer (https://github.com/DarklightGames/io_scene_psk_psa/releases) to import game files into Blender.\
+DarklightGames' psk/psa importer (https://github.com/DarklightGames/io_scene_psk_psa/releases) to import game files into Blender.
 
 Let's begin.
 - [Starting out](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/StartingOut.md "Starting out")
