@@ -16,7 +16,7 @@ Now you can go ahead and open **Blender**.
 
 ## Importing the 3D models in Blender
 In Blender, click on **File > Import > Unreal PSK (.psk/.pskx)**\
-<img width="360" alt="BLENDER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/98e6e332-75d2-4c60-ad49-d557459ce8d4">\
+<img width="360" alt="BLENDER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/98e6e332-75d2-4c60-ad49-d557459ce8d4">
 
 Go to the output folder you set when changing FModel's settings, **Output** > **Exports**, > go through the folders until you find the SK_***PalCodeName*.psk** file and import it.\
 The textures should be in the same folder as the .psk, apply them to the Pal model if you don't want to replace it, otherwise ignore.\
@@ -27,21 +27,21 @@ We will also change his textures, go to **this section** if you want to learn ho
 ## Modifying the 3D models in Blender
 If you only want to modify your Pal 3D model, you can keep the model present in the viewport and do the modifications directly on it.\
 If your model has a black background for his eyes and mouth, select the texture(s) with the issue, go to the **Shader Editor**, plug the **Alpha** channel of the texture into the **Alpha** property of the Principled BSDF.\
-<img width="367" alt="BLENDERSHADER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/c988b8db-3d1a-48ed-b597-8beda449cfb8">\
+<img width="367" alt="BLENDERSHADER1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/c988b8db-3d1a-48ed-b597-8beda449cfb8">
 
 
 
 Then in the Material Properties tab change the **Blend Mode** to **Alpha Blend** and the **Shadow Mode** to **None**.\
-<img width="187" alt="BLENDERSHADER2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/41e5a112-f107-468d-b69b-e38b9a36bfce">\
+<img width="187" alt="BLENDERSHADER2" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/41e5a112-f107-468d-b69b-e38b9a36bfce">
 
 
 Your Pal is fixed!\
-<img width="398" alt="BLENDERSHADER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/d0b93d38-ea6d-4a27-9ac4-14beab123f1f">\
+<img width="398" alt="BLENDERSHADER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/d0b93d38-ea6d-4a27-9ac4-14beab123f1f">
 
 
 
 Here's the poorly made "Sleep Deprived Depresso", as well as his textures changed.\
-<img width="360" alt="BLENDER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/3cd4b1f6-17d9-4160-8c04-d0acc640ce92">\
+<img width="360" alt="BLENDER3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/3cd4b1f6-17d9-4160-8c04-d0acc640ce92">
 
 \
 To export, simply go to **File > Export > FBX (.fbx)** and choose where you want to export it.\
