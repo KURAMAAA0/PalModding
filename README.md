@@ -1,5 +1,5 @@
 # Useful resources for modding Palworld
-- [Palworld Unreal Editor SDK](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/README.md "Palworld Unreal Editor SDK") (localcc)
+- [Palworld Unreal Editor SDK](https://github.com/localcc/PalworldModdingKit) (localcc)
 - [Asset swap guide](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/README.md "Asset swap guide") (me)
 - [All Palworld item IDs](https://github.com/KURAMAAA0/PalModding/blob/main/ItemIDs.txt "All Palworld item IDs") (me)
 - [Palworld save to JSON](https://gist.github.com/cheahjs/300239464dd84fe6902893b6b9250fd0) (cheahjs)
