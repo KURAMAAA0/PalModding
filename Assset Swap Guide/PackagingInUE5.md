@@ -1,6 +1,6 @@
 
 ## Packaging final mod file through UE5
-Most of this section is heavily inspired by [this guide](https://www.abbiedoobie.com/2023/10/13/modding-robocop-rogue-city-and-other-ue-5-games/)! Was incredibly helpful.\
+Most of this section is heavily inspired by [this guide](https://www.abbiedoobie.com/2023/10/13/modding-robocop-rogue-city-and-other-ue-5-games/)! Was incredibly helpful.
 
 Launch Unreal Engine 5.1.1.
 
