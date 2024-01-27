@@ -3,6 +3,7 @@
 Most of this section is heavily inspired by [this guide](https://www.abbiedoobie.com/2023/10/13/modding-robocop-rogue-city-and-other-ue-5-games/)! Was incredibly helpful.\
 
 Launch Unreal Engine 5.1.1.
+
 <img width="195" alt="UE1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/ca1c0f4c-3d4d-4559-aded-fa5cd8c20c25">
 
 Create a new project: **Games** > **Blank project**, name it exactly **“Pal”** **(Very important that the project name is "Pal" or the mod won't load!)**
