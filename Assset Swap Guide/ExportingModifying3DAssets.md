@@ -46,4 +46,4 @@ Here's the poorly made "Sleep Deprived Depresso", as well as his textures change
 \
 To export, simply go to **File > Export > FBX (.fbx)** and choose where you want to export it.\
 \
-Let's proceed with the final step, packaging the file in UE5 to get a mod file!
+Let's proceed with the final step, [packaging the file in UE5 to get a mod file!](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/PackagingInUE5.md)
