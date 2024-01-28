@@ -30,9 +30,9 @@ FModelの上部のメニュー**Settings**から設定画面を開きます。\
 
 ### Generalタブの設定
 
-1. 必要があれば**Output Directory**を任意の位置に変更します。
+1. 必要があれば**Output Directory**を任意の位置に変更します。\
    大きなファイルが出力される可能性があるので容量に余裕があるドライブを推奨します。
-2. **UE Versions**を**GAME_UE5_1**に変更します。
+2. **UE Versions**を**GAME_UE5_1**に変更します。\
    これはPalworldのUEバージョンと一致します。
 3. **ADVANCED**セクションの**Local Mapping File**にチェックを入れます。
 4. **Mapping File Path**に先ほどダウンロードした[Palworld mapping file](https://github.com/KURAMAAA0/PalModding/raw/main/Assset%20Swap%20Guide/Mappings.usmap "Palworld mapping file")ファイルパスを設定します。
@@ -40,7 +40,7 @@ FModelの上部のメニュー**Settings**から設定画面を開きます。\
 ### Modelsタブの設定
 
 1. 設定の左側にある**Models**タブをクリックします。
-2. 必要があれば**Model Export Directory**を任意の位置に変更します。
+2. 必要があれば**Model Export Directory**を任意の位置に変更します。\
    大きなファイルが出力される可能性があるので容量に余裕があるドライブを推奨します。
 3. Mesh Formatを**ActorX(psk/pskx)**に変更します。
 4. Texture Formatを**PNG**に変更します。
