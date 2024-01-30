@@ -56,7 +56,7 @@ FModelの上部のメニュー**Settings**から設定画面を開きます。\
 ついにゲームファイルの探索とエクスポートを自由にできるようになりました。\
 どのファイルをエクスポートするかは、ガイドの以下のセクションのいずれかを参照してください
 
-- [3Dアセット(パル、アイテムなど)のエクスポートと変更](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/ExportingModifying3DAssets.md "Exporting and modifying 3D assets (Pals, items, etc..)")
-- [[WIP] 3Dアセット(パル、アイテムなど)のエクスポートと置換](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/ExportingReplacing3DAssets.md)
-- [[WIP] 2Dアセット（アイコン、HUD要素、画像）のエクスポートと修正](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/ExportingModifying2DAssets.md)
+- [3Dアセット(パル、アイテムなど)のエクスポートと変更](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide%20JA/ExportingModifying3DAssets.md "Exporting and modifying 3D assets (Pals, items, etc..)")
+- [[WIP] 3Dアセット(パル、アイテムなど)のエクスポートと置換](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide%20JA/ExportingReplacing3DAssets.md)
+- [[WIP] 2Dアセット（アイコン、HUD要素、画像）のエクスポートと修正](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide%20JA/ExportingModifying2DAssets.md)
 - アニメーション？可能かどうかわかりません、まだ試していません。WIP。
