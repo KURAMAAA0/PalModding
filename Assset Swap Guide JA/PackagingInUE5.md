@@ -7,7 +7,7 @@ Unreal Engine 5.1.1を起動します。
 <img width="195" alt="UE1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/ca1c0f4c-3d4d-4559-aded-fa5cd8c20c25">
 
 新規プロジェクトを作成します： **Games** > **Blank project**, 名前を **"Pal "** にします。\
-**プロジェクト名は必ず`Pal`にします。そうでないとMODがロードされません！**\
+**プロジェクト名は必ず`Pal`にします。そうでないとMODがロードされません！**
 
 プロジェクトのデフォルトを以下のように設定します。
 - **ブループリント**
