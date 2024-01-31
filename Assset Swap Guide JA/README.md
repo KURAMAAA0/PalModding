@@ -27,4 +27,4 @@
 
 ## MOD作成の旅へ
 
-[次に進む](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide/StartingOut.md)
+[次に進む](https://github.com/KURAMAAA0/PalModding/blob/main/Assset%20Swap%20Guide%20JA/StartingOut.md)
