@@ -72,7 +72,7 @@ Select **PrimaryAssetLabel**.
 Name it “Label_YourModName”. I named mine “Label_DeprivedDepresso”.
 Double click it, and make the following changes:
 Priority set to **1 or more**
-Chunk ID set to **1000 or more**, this will be in your final mod .pak to help you differentiate it from other .pak files.
+Chunk ID set to **100 or more**, this will be in your final mod .pak to help you differentiate it from other .pak files.
 Cook Rule set to **Always Cook**
 Label Assets in My Directory **checked**.
 Save everything (bottom right corner).
@@ -85,7 +85,7 @@ Your mod will start packaging, this will take a while so grab a cup of tea!
 Or coffee..
 Once packaging is done, you’ll have 	a “Windows” folder made, go in through folder: Windows > Pal > Content > Paks.
 In the Paks folder, you’ll most likely have two .pak files, **pakchunk0-Windows** and yours.
-Mine is pakchunk1000-Windows because I set the Chunk ID to 1000.
+Mine is pakchunk100-Windows because I set the Chunk ID to 100.
 You now need to go into your game local files.
 
 <img width="367" alt="STEAM1" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/c8563873-11e1-4376-a6da-09df5fdd2c0e">
