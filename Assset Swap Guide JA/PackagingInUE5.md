@@ -80,7 +80,7 @@ UE5のウィンド右下の「すべてを保存」をクリックします。\
 私は`Label_DeprivedDepresso`としました。\
 これをダブルクリックし、以下の変更を加えます。
 - Priorityを**1以上**
-- Chunk IDを**1000以上**\
+- Chunk IDを**100以上**\
   これはMODの.pakに記載されるので他の.pakファイルと区別するのに役立ちます。
 - Cook Ruleを**Always Cook**
 - Label Assets in My Directoryを**チェック**
@@ -97,8 +97,8 @@ UE5のウィンド右下の「すべてを保存」をクリックします。\
 パッケージ化が終わると「Windows」フォルダが作られます。
 フォルダを開きWindows > Pal > Content > Paksフォルダの中に以下のファイルがあるはずです。
 - pakchunk0-Windows
-- pakchunk1000-Windows\
-  1000はチャンク番号です。変更している場合は読み替えます。
+- pakchunk100-Windows\
+  100はチャンク番号です。変更している場合は読み替えます。
 
 次に、ゲームのローカルファイルに入る必要があります。
 
