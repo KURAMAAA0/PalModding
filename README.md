@@ -6,6 +6,6 @@
 - [Palworld save to JSON](https://gist.github.com/cheahjs/300239464dd84fe6902893b6b9250fd0) (cheahjs)
 - [30-Day Event Bandaid](https://github.com/ruger89/PalWorld30DayEvent) (Ruger)
 
-DM me on Discordd (kurama0) if you find useful resources that could be added, I'll add them at my own discretion.
+/!\ I have stopped maintaining this project, but the first 3 links above should still be helpful!
 
 ###### NOT AFFILIATED WITH POCKETPAIR.
