@@ -27,6 +27,9 @@ Search for **Cook everything** in the search bar and check **Cook everything in 
 
 <img width="377" alt="UESETTING3" src="https://github.com/KURAMAAA0/PalModding/assets/58988462/2967a6ba-031e-4464-b245-b67ac9f140a8">
 
+> [!IMPORTANT]
+> If your pal shows up with gray checkerboard textures in-game, try unchecking "Share Material Shader Code".
+
 Create a folder structure **matching** the one from FModel. Ignore “Pal\Content\” as the Content Browser already starts in “Content”.
 **For example**, since I modified Depresso model, body texture and eyes texture, I need to create the folder structure to get to these files.
 
